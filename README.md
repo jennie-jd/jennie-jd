@@ -1,10 +1,6 @@
-### Hi there 👋
-
 <!--
 **jennie-jd/jennie-jd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +10,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋 I'm Jennie (she/her/hers)
+
+I'm a professional passionate about making a transition into software engineering. I am earning a master's degree in computer science through part-time studies! 📖
+
+By contributing to open source, I look to build software development skills after gaining a solid foundation in computer science. 😎
+
+### 📚 Quick Facts
+- 👯 Looking to collaborate on: artificial intelligence and large systems projects
+- 🧰 Programming Languages: Python, Java, C, HTML, CSS, JavaScript, R
+- 🌱 Currently learning: System design, C++
+
+### 😊 Cool Things About Me
+- 🐕Gained insights into many fields through experiences and learning - finance, technology, international culture, psychiatry, etc. Happy to explore these fascinating topics together.
