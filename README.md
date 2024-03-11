@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 ## Hello! 🐇 I'm Jennie (she/her/hers)
 
 ### About Me
-I'm a professional passionate about making a transition into software engineering. I am currently earning a computer science master's degree through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
+I'm a professional passionate about making a transition into software engineering. I am currently earning a Master's in Computer Science degree through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
 
 ### Quick Facts
 - 🏗️ Currently working on: making my first contribution!
 - 👯 Looking to collaborate on: artificial intelligence and large systems projects
 - 🧰 Programming languages: Python, Java, C, HTML, CSS, JavaScript, R
 - 🌱 Currently learning: system design
-- 💮 Interested in learning: C++ (if the opportunity arises)
-- 🐕 Fun fact: well-versed in an eclectic mix of fields spanning from finance and technology to international culture, psychiatry, and beyond
+- 💮 Interested in learning: C++, if the opportunity arises
+- 🐕 Fun fact: well-versed in an eclectic mix of fields - finance, tech, international culture, psychiatry, and more
