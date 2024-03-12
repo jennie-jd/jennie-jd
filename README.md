@@ -23,3 +23,6 @@ I'm a finance professional passionate about making a transition into software en
 - 🌱 Currently learning: system design
 - 💮 Interested in learning: C++, if the opportunity arises
 - 🐕 Fun fact: well-versed in an eclectic mix of fields - finance, tech, international culture, psychiatry, and more
+
+### Have Fun Coding!
+![cat](https://github.com/jennie-jd/jennie-jd/assets/52141333/b82ce718-0e35-44c2-95fe-a7c880daf23d)
