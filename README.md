@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ## Hello! 🐇 I'm Jennie (she/her/hers)
 
 ### About Me
-I'm a finance professional passionate about making a transition into software engineering. I am currently earning a Master's Degree in Computer Sciences through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
+I'm a working professional passionate about making a transition into software engineering. I am currently earning a Master's Degree in Computer Sciences through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
 
 ### Quick Facts
 - 🏗️ Currently working on: making my first contribution!
