@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a working professional passionate about making a transition into software engineering. I am currently earning a Master's Degree in Computer Sciences through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
 
 ### Quick Facts
-- 🏗️ Currently working on: making my first contribution!
+- 🏗️ Currently working on: finding my first project!
 - 👯 Looking to collaborate on: artificial intelligence and large systems projects
 - 🧰 Programming languages: Python, Java, C, HTML, CSS, JavaScript, R
 - 🌱 Currently learning: system design
