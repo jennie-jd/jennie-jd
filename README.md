@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 I'm a working professional passionate about making a transition into software engineering. I am currently earning a Master's Degree in Computer Sciences through part-time studies! By contributing to open source, I look to build software development skills after gaining solid theoretical knowledge. 😎
 
 ### Quick Facts
-- 🏗️ Currently working on: finding a first few projects to take a deep look
-- 👯 Looking to collaborate on: artificial intelligence and large systems projects
+- 🏗️ Currently working on: finding a project to dive deep into!
+- 👯 Aspirational (future) goal: contributing to artificial intelligence and large systems projects
 - 🧰 Programming languages: Python, Java, C, HTML, CSS, JavaScript, R
 - 🌱 Currently learning: system design
 - 💮 Interested in learning: C++, if the opportunity arises
-- 🐕 Fun fact: knowledgeable in an eclectic mix of fields - finance, tech, international culture, psychiatry, and more 🐰
+- 🐕 Fun fact: knowledgeable of many fields - finance, tech, international culture, psychiatry, and more 🐰
 
 ### Have Fun Coding!
 ![cat](https://github.com/jennie-jd/jennie-jd/assets/52141333/b82ce718-0e35-44c2-95fe-a7c880daf23d)
